@@ -20,8 +20,8 @@ namespace Integral_test
     /// </summary>
     public partial class MainWindow : Window
     {
-        const int m = 1000;
-        const int n = 1000;
+        const int m = 500;
+        const int n = 500;
         public MainWindow()
         {
             InitializeComponent();
